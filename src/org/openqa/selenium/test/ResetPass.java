@@ -11,7 +11,7 @@ public class ResetPass {
 	        final WebDriver driver = new FirefoxDriver();
 	    
 	 
-	        driver.get("http://exoplatform.cloud-workspaces.com/portal/dologin?initialURI=/portal/intranet/home");
+	        driver.get("http://exoplatform.cloud-workspaces.com/portal/dologin?initialURI=dawdawdawdwadortal/intranet/home");
 	   
 
 	        driver.findElement(By.linkText("Forgot Password?")).click();
